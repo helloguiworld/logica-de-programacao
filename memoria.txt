@@ -1,0 +1,41 @@
+# variáveis -> O
+
+# C
+int ano = 2001;
+ou
+int ano;
+ano = 2000;
+
+ano = 2001;
+ano = 1.23 (ERRO)
+
+como se fosse: (int) ano <- 2001
+
+# python
+ano = 2000
+ano = "abacaxi"
+
+----------
+
+# constantes
+
+# C
+const float pi = 3.14
+const int dia, mes, ano;
+dia = 21
+mes = 5
+ano = 1983
+
+
+
+
+int ano;
+
+# 1: ---- -> O
+# 2: ---- -> O
+# 3: ---- -> O
+# 4: 0100 -> O (ano)
+# 5: 1101 -> L
+# 6: 1111 -> L
+# 7: 1100 -> L
+# 8: 1000 -> L

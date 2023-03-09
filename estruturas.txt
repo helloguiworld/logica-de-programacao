@@ -1,0 +1,23 @@
+# condicionais
+se chovendo
+    nao saio
+se não se eu tiver 100 reis ou +
+    saio pro rodizio
+se não
+    saio p self service
+
+# C
+bool chovendo = false;
+float orcamento = 30.9;
+
+if (chovendo == true) {
+    printf("nao saio!");
+} else if (orcamento >= 100) {
+    printf("saio pro rozidio!");
+} else {
+    printf("saio pro self service!");
+}
+
+----------
+
+# repetição
